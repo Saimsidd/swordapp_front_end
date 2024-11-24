@@ -1,0 +1,29 @@
+{
+  "name": "haiku-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.2",
+    "next": "^15.0.3",
+    "react-dom": "^18.3.1",
+    "reat": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "daisyui": "^4.12.14",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15"
+  }
+}
